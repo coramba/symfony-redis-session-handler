@@ -5,6 +5,7 @@
   "keywords": ["symfony", "session", "redis"],
   "homepage": "http://symfony.com",
   "license": "MIT",
+  "version": "1.0.2",
   "authors": [
       {
           "name": "Markus Bachmann",
