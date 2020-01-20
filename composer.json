@@ -1,5 +1,5 @@
 {
-  "name": "jrschumacher/symfony-redis-session-handler",
+  "name": "coramba/symfony-redis-session-handler",
   "type": "library",
   "description": "Redis Session Handler Symfony HttpFoundation Component",
   "keywords": ["symfony", "session", "redis"],
